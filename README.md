@@ -1,1 +1,1 @@
-# my-first-mini-project
+# module-1-challenge
